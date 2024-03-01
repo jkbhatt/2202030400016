@@ -1,0 +1,986 @@
+.desktop-4 {
+  align-self: stretch;
+  height: 2942px;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 0;
+}
+.desktop-3-child {
+  width: 3984.2px;
+  height: 3px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 196px;
+  left: -101px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.croma2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  max-width: 100%;
+  cursor: pointer;
+}
+.menu-icon2,
+.menu2 {
+  height: 90px;
+  position: relative;
+}
+.menu-icon2 {
+  width: 90px;
+  object-fit: cover;
+  min-height: 90px;
+}
+.menu2 {
+  font-weight: 300;
+  display: inline-block;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.frame-wrapper1,
+.menu-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.menu-parent {
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 25px;
+}
+.frame-wrapper1 {
+  width: 437px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 115px;
+  font-size: var(--font-size-61xl);
+}
+.frame-child2 {
+  height: 100%;
+  width: calc(100% - 293px);
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 293px;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-snow-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.search-icon4 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.what-are-you2 {
+  width: 555px;
+  border: 0;
+  outline: 0;
+  font-weight: 300;
+  font-family: var(--font-jura);
+  font-size: var(--font-size-29xl);
+  background-color: transparent;
+  height: 57px;
+  position: relative;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-container {
+  width: 1731px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-12xl) var(--padding-222xl) 0 var(--padding-33xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 0 53px;
+  min-height: 146px;
+  max-width: 100%;
+}
+.home-icon2 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.processor-model {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.customer-icon3 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.nested-frames {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  min-width: 71px;
+}
+.shopping-cart-icon2 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.nested-frames1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  min-width: 71px;
+}
+.help-icon2 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.processor-model-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0 33px;
+}
+.frame-wrapper2 {
+  width: 498px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.croma-parent,
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.croma-parent {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-container {
+  width: 3678px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-17xl);
+  box-sizing: border-box;
+}
+.frame-group,
+.line-icon {
+  align-self: stretch;
+  max-width: 100%;
+}
+.line-icon {
+  height: 1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 267px;
+  box-sizing: border-box;
+  gap: 68px 0;
+  text-align: center;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.samsung-galaxy-watch {
+  height: 787px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangle-info-box {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl) 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.g-12gb-ram,
+.samsung-galaxy-s24,
+.titanium-black {
+  margin: 0;
+}
+.samsung-galaxy-s24-container {
+  position: relative;
+  font-weight: 300;
+}
+.div {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.samsung-galaxy-frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -33px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.price-tag,
+.samsung-galaxy-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.price-tag {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.samsung-galaxy-frame {
+  width: 873px;
+  align-items: center;
+  padding: 0 82px 0 0;
+  box-sizing: border-box;
+  gap: 28px 0;
+}
+.h-p-pavilion-frame {
+  align-self: stretch;
+  height: 787px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.hp-pavilion-15 {
+  margin: 0;
+}
+.amd-ryzen {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.gb-512 {
+  margin: 0;
+}
+.hp-pavilion-15-container {
+  position: relative;
+  font-weight: 300;
+}
+.div1 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -14px;
+}
+.rectangle-frame1,
+.s-o-n-y-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-frame1 {
+  width: 871px;
+  padding: 0 var(--padding-103xl) 0 0;
+  box-sizing: border-box;
+  gap: 28px 0;
+}
+.rectangle-frame-child {
+  width: 749px;
+  height: 787px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.lens,
+.mirrorless-camera,
+.sony-alpha-zv {
+  margin: 0;
+}
+.sony-alpha-zv-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+}
+.div2 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -33px;
+}
+.rectangle-frame2,
+.sony-alpha-zv-e10l-24-mp-mirr-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sony-alpha-zv-e10l-24-mp-mirr-parent {
+  align-self: stretch;
+}
+.rectangle-frame2 {
+  width: 871px;
+  gap: 28px 0;
+}
+.marshall-middleton-portable-sp {
+  height: 787px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangle-container1 {
+  width: 749px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-14xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.calling,
+.samsung-galaxy-watch6,
+.smartwatch-with-bluetooth {
+  margin: 0;
+}
+.samsung-galaxy-watch6-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+  margin-top: -19px;
+}
+.p {
+  margin: 0;
+}
+.div3 {
+  height: 386px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.social-media-links-frame {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+  margin-top: -19px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+}
+.customer-cart-frame,
+.h-p-frame,
+.social-media-links-frame,
+.ultra-h-d-t-v {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ultra-h-d-t-v {
+  width: 820px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.customer-cart-frame,
+.h-p-frame {
+  flex-direction: row;
+}
+.h-p-frame {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.customer-cart-frame {
+  width: 3718px;
+  justify-content: flex-start;
+  padding: 0 13px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.sony-camera-rectangle {
+  width: 749px;
+  height: 787px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.ebronics-envy-bluetooth,
+.headset-with-mic,
+.playtime {
+  margin: 0;
+}
+.ebronics-envy-bluetooth-container {
+  align-self: stretch;
+  position: relative;
+  font-weight: 300;
+}
+.div4 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  white-space: nowrap;
+  z-index: 1;
+}
+.h-p-laptop-rectangle,
+.price-tag1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.price-tag1 {
+  align-self: stretch;
+}
+.h-p-laptop-rectangle {
+  width: 821px;
+  gap: 28px 0;
+  max-width: 100%;
+}
+.galaxy-watch-smartwatch {
+  height: 787px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.samsung-phone-rectangle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-lg);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.google-tv-with,
+.inch-4k-ultra,
+.sony-x82l-1639 {
+  margin: 0;
+}
+.sony-x82l-1639-container {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+}
+.envy-bluetooth-headset {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-lg);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div5 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+.electronics-section,
+.help-frame {
+  width: 716px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.help-frame {
+  width: 890px;
+  padding: 0 123px 0 0;
+  box-sizing: border-box;
+  gap: 14px 0;
+}
+.privacy-policy-terms-about-us {
+  width: 749px;
+  height: 787px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.bluetooth-speaker-ip67,
+.marshall-middleton-portable,
+.water-resistant-20 {
+  margin: 0;
+}
+.marshall-middleton-portable-container {
+  position: relative;
+  font-weight: 300;
+  z-index: 1;
+}
+.div6 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.social-media-icons1,
+.you-tube-instagram-facebook-li {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.you-tube-instagram-facebook-li {
+  align-items: flex-start;
+  gap: 14px 0;
+}
+.social-media-icons1 {
+  align-items: flex-end;
+  padding: 0 159px 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.bluetoothspeaker-child {
+  align-self: stretch;
+  height: 787px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 2;
+}
+.apple-airpods-pro,
+.earbuds-with,
+.generation-usb-c-tws {
+  margin: 0;
+}
+.apple-airpods-pro-container {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.bluetoothspeaker {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.div7 {
+  position: relative;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-kadwa);
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.rectangle-frame3,
+.u-s-b-c-t-w-s-earbuds {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.u-s-b-c-t-w-s-earbuds {
+  width: 749px;
+  flex-direction: column;
+  gap: 28px 0;
+}
+.rectangle-frame3 {
+  position: absolute;
+  top: 0;
+  left: 123px;
+  flex-direction: row;
+  gap: 0 53px;
+}
+.facebook-icon2,
+.instagram-icon2,
+.linkedin-icon2,
+.twitterx-icon2,
+.youtube-icon2 {
+  position: absolute;
+  top: 98px;
+  left: 3160px;
+  width: 109px;
+  height: 121px;
+  object-fit: cover;
+}
+.facebook-icon2,
+.instagram-icon2,
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3293px;
+}
+.facebook-icon2,
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3426px;
+}
+.linkedin-icon2,
+.twitterx-icon2 {
+  left: 3559px;
+}
+.twitterx-icon2 {
+  left: 3692px;
+}
+.about-us1,
+.privercy-policy1,
+.terms-of-uses1 {
+  position: absolute;
+  top: 115px;
+  left: 659px;
+  font-weight: 300;
+}
+.about-us1,
+.terms-of-uses1 {
+  left: 105px;
+}
+.about-us1 {
+  left: 1216px;
+  cursor: pointer;
+}
+.framework {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.79));
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.customer-frame2,
+.socialmedialinks {
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-jura);
+}
+.socialmedialinks {
+  position: absolute;
+  top: 1232px;
+  left: 0;
+  width: 100%;
+  height: 269px;
+  text-align: center;
+}
+.customer-frame2 {
+  align-self: stretch;
+  height: 1501px;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+}
+.desktop-3,
+.main-frame1 {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-3 {
+  flex: 1;
+  background-color: var(--color-black);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-33xl) 0 0;
+  max-width: 100%;
+}
+.main-frame1 {
+  width: 100%;
+  background-color: var(--color-white);
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-44xl) var(--padding-31xl) var(--padding-47xl)
+    var(--padding-28xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 3150px) {
+  .croma-parent,
+  .h-p-frame,
+  .rectangle-frame3 {
+    flex-wrap: wrap;
+  }
+  .customer-frame2 {
+    height: auto;
+    min-height: 1501;
+  }
+}
+@media screen and (max-width: 2250px) {
+  .croma-parent,
+  .h-p-frame,
+  .rectangle-frame3 {
+    flex-wrap: wrap;
+  }
+  .customer-frame2 {
+    height: auto;
+    min-height: 1501;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .croma2 {
+    font-size: var(--font-size-32xl);
+  }
+  .menu2 {
+    font-size: var(--font-size-21xl);
+  }
+  .what-are-you2 {
+    font-size: var(--font-size-19xl);
+  }
+  .rectangle-container {
+    flex-wrap: wrap;
+    gap: 0 53px;
+    justify-content: center;
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+  .processor-model-parent {
+    flex-wrap: wrap;
+    gap: 0 33px;
+  }
+  .croma-parent {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    gap: 68px 0;
+    padding-bottom: 174px;
+    box-sizing: border-box;
+  }
+  .samsung-galaxy-s24-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div {
+    font-size: var(--font-size-29xl);
+  }
+  .samsung-galaxy-frame {
+    padding-right: 41px;
+    box-sizing: border-box;
+  }
+  .hp-pavilion-15-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div1 {
+    font-size: var(--font-size-29xl);
+  }
+  .rectangle-frame1 {
+    padding-right: var(--padding-42xl);
+    box-sizing: border-box;
+  }
+  .sony-alpha-zv-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div2 {
+    font-size: var(--font-size-29xl);
+  }
+  .samsung-galaxy-watch6-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div3 {
+    font-size: var(--font-size-29xl);
+  }
+  .h-p-frame {
+    flex-wrap: wrap;
+  }
+  .ebronics-envy-bluetooth-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div4 {
+    font-size: var(--font-size-29xl);
+  }
+  .sony-x82l-1639-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div5 {
+    font-size: var(--font-size-29xl);
+  }
+  .marshall-middleton-portable-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div6 {
+    font-size: var(--font-size-29xl);
+  }
+  .apple-airpods-pro-container {
+    font-size: var(--font-size-32xl);
+  }
+  .div7 {
+    font-size: var(--font-size-29xl);
+  }
+  .rectangle-frame3 {
+    flex-wrap: wrap;
+  }
+  .about-us1,
+  .privercy-policy1,
+  .terms-of-uses1 {
+    font-size: var(--font-size-32xl);
+  }
+  .customer-frame2 {
+    height: auto;
+    min-height: 1501;
+  }
+  .desktop-3 {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .main-frame1 {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .croma2 {
+    font-size: var(--font-size-13xl);
+  }
+  .menu2 {
+    font-size: var(--font-size-5xl);
+  }
+  .menu-parent {
+    flex-wrap: wrap;
+  }
+  .what-are-you2 {
+    font-size: var(--font-size-10xl);
+  }
+  .croma-parent {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    gap: 68px 0;
+  }
+  .samsung-galaxy-s24-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div {
+    font-size: var(--font-size-10xl);
+  }
+  .hp-pavilion-15-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div1 {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-frame1 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .sony-alpha-zv-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div2 {
+    font-size: var(--font-size-10xl);
+  }
+  .samsung-galaxy-watch6-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div3 {
+    font-size: var(--font-size-10xl);
+  }
+  .h-p-frame {
+    flex-wrap: wrap;
+  }
+  .ebronics-envy-bluetooth-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div4 {
+    font-size: var(--font-size-10xl);
+  }
+  .sony-x82l-1639-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div5 {
+    font-size: var(--font-size-10xl);
+  }
+  .marshall-middleton-portable-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div6 {
+    font-size: var(--font-size-10xl);
+  }
+  .apple-airpods-pro-container {
+    font-size: var(--font-size-19xl);
+  }
+  .div7 {
+    font-size: var(--font-size-10xl);
+  }
+  .rectangle-frame3 {
+    flex-wrap: wrap;
+  }
+  .about-us1,
+  .privercy-policy1,
+  .terms-of-uses1 {
+    font-size: var(--font-size-19xl);
+  }
+  .customer-frame2 {
+    height: auto;
+    min-height: 1501;
+  }
+}
